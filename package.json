@@ -1,0 +1,8 @@
+{
+  "name": "maglaw",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd client && npm install && npm run build"
+  }
+}
+
